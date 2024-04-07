@@ -1,0 +1,82 @@
+1广东珠江,http://111.12.110.7:6610/PLTV/77777777/224/3221225717/index.m3u8?
+2广东珠江,http://lcx-olt.8866.org:8181/tsfile/live/1002_1.m3u8
+3广东珠江,http://113.117.74.28:8081/hls/139/index.m3u8
+4TVB CHINESEhttp://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+5TVB CLASSIChttp://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+6TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153401
+7翡翠台,mitv://generationnexxxt.com:19806/171596a185224df783c5b43b1ba9e6d8
+8TVB Satellite Jade,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+9TVB Satellite News Channel,http://live.cooltv.top/tv/tvb.php?id=0
+10TVB Satellite Finance-Sport-Info Channel,http://live.cooltv.top/tv/tvb.php?id=2
+11TVB J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+12TVB News,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+13TVB Pearl,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+14TVB FSI,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+15翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
+16now新闻,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+17無綫新聞,http://sz.l68.fun:9001/bysid/83
+18J2台,http://bziyunshao.synology.me:8890/bysid/82
+19無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
+20無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+21國際財經,http://bziyunshao.synology.me:8891/bysid/76
+22翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+23翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+24翡翠台,http://r.jdshipin.com/qClQf
+25翡翠台,http://146.56.153.245:8006/bysid/1
+26翡翠台,http://r.jdshipin.com/62WM7
+27翡翠台,http://sz.l68.fun:9000/bysid/1
+28翡翠香港频道,https://s2.pub/cctv-4 
+29翡翠香港频道,https://s2.pub/cctv-23 
+30明珠香港频道,https://s2.pub/cctv-6 
+31VIUtv1香港台,https://s2.pub/cctv-7 
+32VIUtv2香港频,https://s2.pub/cctv-8 
+33HOY77香港,https://s2.pub/cctv-9 
+34HOY78香港,https://s2.pub/cctv-10
+35无线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+36广东公共,http://222.218.159.100:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+37广东公共,http://222.218.159.162:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+38广东公共,http://222.218.159.115:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+39广东珠江备用,http://222.218.159.49:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+40广东珠江备用,http://222.218.159.115:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+41广东珠江备用,http://222.218.159.100:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+42珠江台,http://222.218.159.162:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+43珠江台,http://222.218.159.100:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+44珠江台,http://222.218.159.115:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+45翡翠台第1声道繁体,http://iptv.tvfix.org/hls/jade.m3u8
+46翡翠台第2声道简体,http://iptv.tvfix.org/hls/jade2.m3u8
+47翡翠台海外版粤语繁体,http://iptv.tvfix.org/hls/jadenhk.m3u8
+48翡翠台海外版普通话简体,http://iptv.tvfix.org/hls/jadenhk2.m3u8
+49J2,http://iptv.tvfix.org/hls/j2.m3u8
+50J2第2声道,http://iptv.tvfix.org/hls/j22.m3u8
+51无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
+52无线新闻台第2声道,http://iptv.tvfix.org/hls/inews2.m3u8
+53明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+54明珠台第2声道,http://iptv.tvfix.org/hls/pearl2.m3u8
+55无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
+56无线财经资讯台第2声道,http://iptv.tvfix.org/hls/finance2.m3u8
+57无线财经资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
+58ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+59ViuTV第2声道,http://iptv.tvfix.org/hls/viutv2.m3u8
+60ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+61RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+62RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+63凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+64凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+65凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+66HK国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
+67HK开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+68TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+69TVB星河粤语,http://iptv.tvfix.org/hls/tvbxh.m3u8
+70TVB星河普通话,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+71TVB功夫台粤语,http://iptv.tvfix.org/hls/tvbkf.m3u8
+72TVB功夫普通话,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+73TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+74TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+75广东珠江,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+76广东民生,http://ci.emdoor.tech:8080/touchtv.php?pk=1185
+77广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+78now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+79无线新闻频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+80无线财经频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
+81TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+82无线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
