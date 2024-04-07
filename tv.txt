@@ -1,0 +1,15 @@
+翡翠台[1920x1080],http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix[1920x1080],http://bziyunshao.synology.me:8889/bysid/96
+ViuTV[1920x1080],http://bziyunshao.synology.me:8889/bysid/99
+明珠台[1920x1080],http://bziyunshao.synology.me:8890/bysid/2
+J2台[1920x1080],http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台[1920x1080],http://bziyunshao.synology.me:8890/bysid/83
+無綫財經[1920x1080],http://bziyunshao.synology.me:8890/bysid/85
+國際財經台[1920x1080],http://bziyunshao.synology.me:8891/bysid/76
+HOY TV[1920x1080],http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台[1920x1080],http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31[1920x1080],http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32[1920x1080],http://bziyunshao.synology.me:8892/bysid/32
+J2台[1920x1080],http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
+明珠台[1920x1080],http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+环球电视台[1920x1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
