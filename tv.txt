@@ -4,8 +4,11 @@ ViuTVsix[1920x1080],http://bziyunshao.synology.me:8889/bysid/96
 ViuTV[1920x1080],http://bziyunshao.synology.me:8889/bysid/99
 明珠台[1920x1080],http://bziyunshao.synology.me:8890/bysid/2
 J2台[1920x1080],http://bziyunshao.synology.me:8890/bysid/82
+J2台[1920x1080],http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
 無綫新聞台[1920x1080],http://bziyunshao.synology.me:8890/bysid/83
+無綫新聞台[1920x1080],http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 無綫財經[1920x1080],http://bziyunshao.synology.me:8890/bysid/85
+無綫財經[1920x1080],http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 國際財經台[1920x1080],http://bziyunshao.synology.me:8891/bysid/76
 HOY TV[1920x1080],http://bziyunshao.synology.me:8891/bysid/77
 HOY 資訊台[1920x1080],http://bziyunshao.synology.me:8891/bysid/78
