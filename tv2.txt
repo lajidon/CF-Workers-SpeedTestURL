@@ -213,3 +213,7 @@ TVB星河,https://z88.ubtvfans.com/live/rx4/1079/5c3f0a081da1a530f171486f6931c93
 
 TVB经典,https://z88.ubtvfans.com/live/rx3/1083/3f1033b4dc8bef46e6a2482a701130b4/index.m3u8
 
+mytvsuper,#genre#
+無線衛星新聞台,https://mytvsuper.livednow.com/CTSN
+娛樂新聞台,https://mytvsuper.livednow.com/CTVE
+無綫新聞台,https://mytvsuper.livednow.com/C
