@@ -199,4 +199,5 @@ TVB星河,https://z88.ubtvfans.com/live/rx4/1079/5c3f0a081da1a530f171486f6931c93
 TVB经典,https://z88.ubtvfans.com/live/rx3/1083/3f1033b4dc8bef46e6a2482a701130b4/index.m3u8
 
 测试,#genre#
+广东民生,http://sxd.nyxg.vip:40000/udp/239.77.0.225:5146
 
