@@ -6,15 +6,6 @@
 無綫新聞台4,http://bziyunshao.synology.me:8890/bysid/83
 
 广东,#genre#
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-广东珠江1,http://218.17.205.210:9901/tsfile/live/1000_1.m3u8
-广东珠江2,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
-广东珠江4,http://113.86.204.95:9999/udp/239.77.0.114:5146
-广东珠江5,http://113.86.205.10:8090/hls/105/index.m3u8
-广东珠江6,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江7,http://nas147.myds.me:8888/udp/239.77.0.1:5146
-
-
 广东珠江超清,http://www.kitcc.cn:8887/udp/239.77.0.114:5146
 广东珠江高清1,http://www.kitcc.cn:8887/udp/239.77.0.1:5146
 广东珠江高清2,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=0&authid=0 
@@ -24,7 +15,7 @@
 广东公共高清2,http://183.11.239.36:808/hls/18/index.m3u8?key=tvbox6_com&playlive=1&authid=0
 广东公共高清3,http://113.98.122.166:9901/tsfile/live/1056_1.m3u8?key=txiptv
 广东公共高清4,http://www.kitcc.cn:8887/udp/239.77.0.225:5146
-
+广东公共高清4,http://113.101.119.109:808/hls/107/index.m3u8
 广东民生1,http://nas147.myds.me:8888/udp/239.77.0.225:5146
 广东公共高清,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.225:5146
 
