@@ -8,12 +8,7 @@
 
 
 广东,#genre#
-广东珠江,https://zjtctv.gdtv.cn/live/zjlive.gdtv.cn_gdzj-1714287009651.ts?auth_key=1714291013-0-0-939f3e25b3bf0b860fd00c837a8a9eb6
-广东珠江,https://zjtctv.gdtv.cn/live/zjlive.gdtv.cn_gdzj-1714287017592.ts?auth_key=1714291013-0-0-be1da237c0b5922c594bc9981bbaf214
-广东珠江,https://zjtctv.gdtv.cn/live/zjlive.gdtv.cn_gdzj-1714287025612.ts?auth_key=1714291013-0-0-2ad6f75d80f6884f23f64cf76dfe865f
-广东珠江,https://zjtctv.gdtv.cn/live/zjlive.gdtv.cn_gdzj-1714287033608.ts?auth_key=1714291013-0-0-71003c80dc6afe5fb1aaec2d9973b8a1
-广东珠江,https://zjtctv.gdtv.cn/live/zjlive.gdtv.cn_gdzj-1714287041597.ts?auth_key=1714291013-0-0-95688069d1d8c3cf94a0c4650c38c5dd
-广东珠江,https://zjtctv.gdtv.cn/live/zjlive.gdtv.cn_gdzj-1714287049520.ts?auth_key=1714291013-0-0-69a6bc63e8db2bd94d8b4bc6e1bc1e82
+广东珠江,http://103.45.68.47:6800/gy/gy_cnPm/%E8%A7%A6%E7%94%B5.php?pk=1183
 广东珠江酒店,http://113.83.248.125:4200/udp/239.77.0.1:5146
 广东珠江酒店,http://113.67.164.234:8888/udp/239.77.0.114:5146
 广东珠江酒店,http://14.145.201.133:8888/udp/239.77.0.1:5146
@@ -21,12 +16,7 @@
 广东珠江组播,http://14.112.82.110:2222/udp/239.77.0.114:5146
 广东珠江组播,http://113.71.148.79:5555/udp/239.77.0.1:5146
 
-广东民生,https://ggtctv.gdtv.cn/live/gglive.gdtv.cn_gdgg-1714286939097.ts?auth_key=1714291013-0-0-f22f0947ec6d34861acaa4488758fbc8
-广东民生,https://ggtctv.gdtv.cn/live/gglive.gdtv.cn_gdgg-1714286947072.ts?auth_key=1714291013-0-0-7f9b7f3be1d47703d5576d31aec9b5ec
-广东民生,https://ggtctv.gdtv.cn/live/gglive.gdtv.cn_gdgg-1714286955173.ts?auth_key=1714291013-0-0-8f16266967faf7b2d16ee11412bdcc55
-广东民生,https://ggtctv.gdtv.cn/live/gglive.gdtv.cn_gdgg-1714286963091.ts?auth_key=1714291013-0-0-111225bd10d2e5cd5d3a89b48e16eefe
-广东民生,https://ggtctv.gdtv.cn/live/gglive.gdtv.cn_gdgg-1714286971059.ts?auth_key=1714291013-0-0-c7162b5688fd5e51a99ea13fd26ec248
-广东民生,https://ggtctv.gdtv.cn/live/gglive.gdtv.cn_gdgg-1714286979184.ts?auth_key=1714291013-0-0-458f644d461671f3cb04270163f68567
+广东民生,http://103.45.68.47:6800/gy/gy_cnPm/触电.php?pk=1185
 广东民生酒店,http://113.110.72.82:8090/hls/107/index.m3u8
 广东民生酒店,http://113.67.164.234:8888/udp/239.77.0.225:5146
 广东民生酒店,http://14.145.201.133:8888/udp/239.77.0.225:5146
