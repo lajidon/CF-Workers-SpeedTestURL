@@ -31,6 +31,7 @@ Now財經,https://ali.hlspull.yximgs.com/live/8c74d70297cdf95ee874d2d1e68df4f8.f
 
 广东,#genre#
 广东珠江,http://103.45.68.47:6800/gy/gy_cnPm/%E8%A7%A6%E7%94%B5.php?pk=1183
+广东珠江,https://ali.hlspull.yximgs.com/live/41cd0d10bb3d641116191d2564564ce8.flv
 广东珠江酒店,http://113.83.248.125:4200/udp/239.77.0.1:5146
 广东珠江酒店,http://113.67.164.234:8888/udp/239.77.0.114:5146
 广东珠江酒店,http://14.145.201.133:8888/udp/239.77.0.1:5146
