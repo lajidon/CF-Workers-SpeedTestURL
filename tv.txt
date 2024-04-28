@@ -5,6 +5,28 @@
 无线新闻台3,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 无线新闻台4,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台5,http://live.cooltv.top/tv/tvb.php?id=2&hq
+凤凰中文,https://ali.hlspull.yximgs.com/live/9d8cd032d5559cbea91273d0632e83e3.flv
+凤凰資訊,https://ali.hlspull.yximgs.com/live/24c69b431c8e2f79958b354f51cad72f.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/941c92bf0b8eb90801b0785d0d00aa4e.flv
+翡翠台,https://play.kankanlive.com/live/5370992661453784.flv
+TVBplus,https://ali.hlspull.yximgs.com/live/22a89122a1436a158d24bd58e51a99df.flv
+明珠,https://ali.hlspull.yximgs.com/live/d74389e24fd3a7bcb2de5d9480017c9a.flv?txSecret=650189be981dc4168314c72a99f4c9f7&txTime=680f2e7d
+TVBplus1,https://play.kankanlive.com/live/2315876001492142.flv
+ViuTV,https://ali.hlspull.yximgs.com/live/5842f5d547dbf12cb8320cd51f8fa140.flv
+ViuTVSix,https://ali.hlspull.yximgs.com/live/a6bc78ce6bf77e787057d8c56d81a641.flv
+RHK31,https://ali.hlspull.yximgs.com/live/521d5a72ea3b2757e1d65c1ed297d2bd.flv
+RHK32,https://ali.hlspull.yximgs.com/live/9a4b58c1a2a49e35b613aac98b81ae15.flv
+HOYTV,https://ali.hlspull.yximgs.com/live/ccb6e62c76a5ec8fbf664265d19169e8.flv
+HOY資訊,https://ali.hlspull.yximgs.com/live/2d7a91ab6fdb16c6faa483611dac5b7f.flv
+HOY財經,https://ali.hlspull.yximgs.com/live/5d8c266b3bcbc3de37f8717f44a61ce4.flv
+Now新聞,https://ali.hlspull.yximgs.com/live/fa44355c655085c5ff9be01718e14453.flv
+Now財經,https://ali.hlspull.yximgs.com/live/8c74d70297cdf95ee874d2d1e68df4f8.flv
+星河,https://ali.hlspull.yximgs.com/live/115ce4f2065e7d5a4374b13589d9fb2d.flv
+星河国语,https://ali.hlspull.yximgs.com/live/82b3ea218dd22ebba62b36adbdaa33a0.flv
+天映頻道,https://ali.hlspull.yximgs.com/live/a4aaa149b411672855ea08836e180f6b.flv
+天映电影,https://ali.hlspull.yximgs.com/live/28bbfcf1c346172c436c139c5b92ff6a.flv
+天映經典,https://ali.hlspull.yximgs.com/live/0394bf60b84d7cfca7a6b7a2940584b7.flv
+美亚电影,https://ali.hlspull.yximgs.com/live/6fe0c042f674cebb85e1e74c7f932894.flv
 
 
 广东,#genre#
