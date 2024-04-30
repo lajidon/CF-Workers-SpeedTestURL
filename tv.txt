@@ -1,12 +1,13 @@
 港澳,#genre#
 
 無綫新聞台1,http://137.175.30.127:9080/hls/inews.m3u8
-無綫新聞台2,
+無綫新聞台2,http://zsntlqj.xicp.net:8896/bysid/83
 无线新闻台3,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 无线新闻台4,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台5,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 TVBplus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+TVBplus,http://zsntlqj.xicp.net:8896/bysid/82
 
 广东,#genre#
 广东珠江酒店,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
