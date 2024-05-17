@@ -1,8 +1,5 @@
 港澳,#genre#
 
-無綫新聞台1,
-無綫新聞台2,
-无线新闻台3,
 无线新闻台4,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台5,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
