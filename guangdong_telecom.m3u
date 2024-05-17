@@ -1,1 +1,26 @@
+﻿#EXTM3U
 
+#EXTINF:-1 group-title="广东",珠江
+http://183.238.213.11:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东",珠江1
+http://113.67.164.93:8888/udp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东",珠江2
+http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="广东",珠江3
+http://183.6.110.241:9901/hls/1050/index.m3u8
+#EXTINF:-1 group-title="广东",珠江5
+http://113.103.253.123:2000/udp/239.77.0.1:5146
+#EXTINF:-1 group-title="广东",珠江5
+http://113.93.49.59:2000/udp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东",民生
+http://183.238.213.11:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="广东",民生1
+http://113.67.164.93:8888/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东",民生2
+http://183.6.110.241:9901/hls/1052/index.m3u8
+#EXTINF:-1 group-title="广东",民生3
+http://120.197.112.28:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="广东",民生4
+http://113.103.253.123:2000/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东",民生5
+http://113.93.49.59:2000/udp/239.77.0.225:5146
