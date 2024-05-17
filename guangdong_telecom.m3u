@@ -1,13 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="香港",无线新闻台
-http://live.cooltv.top/tv/tvb.php?id=0&hq
-
-#EXTINF:-1 group-title="香港",无线新闻台
-http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="香港",无线新闻台2
-http://live.cooltv.top/tv/tvb.php?id=2&hq
-
 #EXTINF:-1 group-title="广东",珠江
 http://183.238.213.11:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="广东",珠江1
