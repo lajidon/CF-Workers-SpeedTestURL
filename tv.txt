@@ -1,5 +1,6 @@
 港澳,#genre#
-无线新闻台2
+
+无线新闻台1,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台4,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台5,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
