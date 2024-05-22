@@ -1,15 +1,16 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 222.222.222.222,2087,TRUE,ip分隔用,Asia Pacific,Hong Kong,59 ms,25570 kB/s
-47.76.159.146,2053,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,17517 kB/s
-47.243.42.219,2053,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,14154 kB/s
-47.76.204.76,2053,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,10125 kB/s
-47.76.159.146,2082,FALSE,HKG,Asia Pacific,Hong Kong,54 ms,17245 kB/s
-47.76.146.1,2082,FALSE,HKG,Asia Pacific,Hong Kong,57 ms,16513 kB/s
-8.222.181.117,2053,TRUE,SIN,Asia Pacific,Singapore,234 ms,7990 kB/s
-8.222.181.117,2087,TRUE,SIN,Asia Pacific,Singapore,217 ms,7952 kB/s
-47.76.146.1,2053,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,7849 kB/s
-47.236.180.51,2053,TRUE,SIN,Asia Pacific,Singapore,234 ms,7723 kB/s
-47.236.254.120,2053,TRUE,SIN,Asia Pacific,Singapore,218 ms,7666 kB/s
-47.236.97.90,2053,TRUE,SIN,Asia Pacific,Singapore,232 ms,7370 kB/s
-47.76.204.76,2053,TRUE,HKG,Asia Pacific,Hong Kong,68 ms,7308 kB/s
-47.76.204.76,2087,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,7294 kB/s
+8.217.149.28,2052,FALSE,HKG,Asia Pacific,Hong Kong,58 ms,11364 kB/s
+8.210.107.246,2052,FALSE,HKG,Asia Pacific,Hong Kong,64 ms,11150 kB/s
+47.237.95.146,8080,FALSE,SIN,Asia Pacific,Singapore,244 ms,8366 kB/s
+8.210.107.246,8880,FALSE,HKG,Asia Pacific,Hong Kong,60 ms,7905 kB/s
+47.237.95.146,2086,FALSE,SIN,Asia Pacific,Singapore,251 ms,7774 kB/s
+8.210.107.246,2095,FALSE,HKG,Asia Pacific,Hong Kong,61 ms,7604 kB/s
+47.236.93.176,2086,FALSE,SIN,Asia Pacific,Singapore,217 ms,7498 kB/s
+47.237.94.140,80,FALSE,SIN,Asia Pacific,Singapore,243 ms,7442 kB/s
+8.217.149.28,2082,FALSE,HKG,Asia Pacific,Hong Kong,60 ms,7422 kB/s
+47.237.95.146,8443,TRUE,SIN,Asia Pacific,Singapore,250 ms,8196 kB/s
+47.237.95.156,2053,TRUE,SIN,Asia Pacific,Singapore,240 ms,8156 kB/s
+47.237.95.156,8443,TRUE,SIN,Asia Pacific,Singapore,222 ms,7771 kB/s
+8.219.177.205,2053,TRUE,SIN,Asia Pacific,Singapore,217 ms,7154 kB/s
+162.159.27.230,8080,FALSE,San Jose,Asia Pacific,Singapore,217 ms,7154 kB/s
