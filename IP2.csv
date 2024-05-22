@@ -1,15 +1,1 @@
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-111.111.111.111,8080,FALSE,ip2分隔用,Asia Pacific,Hong Kong,58 ms,15417 kB/s
-8.217.250.5,2082,FALSE,HKG,Asia Pacific,Hong Kong,60 ms,15417 kB/s
-47.76.146.1,2052,FALSE,HKG,Asia Pacific,Hong Kong,58 ms,14996 kB/s
-47.76.204.76,2052,FALSE,HKG,Asia Pacific,Hong Kong,62 ms,14812 kB/s
-47.76.204.76,80,FALSE,HKG,Asia Pacific,Hong Kong,59 ms,13649 kB/s
-47.243.42.219,2082,FALSE,HKG,Asia Pacific,Hong Kong,62 ms,12824 kB/s
-47.76.159.146,2052,FALSE,HKG,Asia Pacific,Hong Kong,129 ms,12665 kB/s
-47.243.42.219,2052,FALSE,HKG,Asia Pacific,Hong Kong,57 ms,11820 kB/s
-47.236.254.120,2082,FALSE,SIN,Asia Pacific,Singapore,226 ms,8442 kB/s
-47.237.95.146,80,FALSE,SIN,Asia Pacific,Singapore,228 ms,8103 kB/s
-8.217.250.5,80,FALSE,HKG,Asia Pacific,Hong Kong,56 ms,8092 kB/s
-8.219.50.180,2052,FALSE,SIN,Asia Pacific,Singapore,231 ms,8073 kB/s
-47.76.159.146,2086,FALSE,HKG,Asia Pacific,Hong Kong,135 ms,8027 kB/s
-111.111.111.112,8080,FALSE,ip2分隔用,Asia Pacific,Hong Kong,58 ms,15417 kB/s
+
