@@ -1,39 +1,112 @@
 港澳,#genre#
-
-无线新闻台4,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻台5,http://live.cooltv.top/tv/tvb.php?id=2&hq
-
-TVBplus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-TVBplus,http://zsntlqj.xicp.net:8896/bysid/82
-TVBplus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-
-VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+无线新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
+TVB Plus,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
+黄金翡翠台,http://php.jdshipin.com:8880/xsj.php?id=golden-jade
+黄金华剧台,http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
+千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
+TVB粤语片台,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
+TVB星河,http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
+TVB亚洲剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
+TVB华语剧台,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
+TVB娱乐新闻台,http://php.jdshipin.com:8880/xsj.php?id=TVB%20ylxw
+凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
+凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
+凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
+HOY TV,http://php.jdshipin.com:8880/xsj.php?id=hoytv
+HOY资讯台,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
+Viu TV,http://php.jdshipin.com:8880/xsj.php?id=viutv
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
+天映经典,http://php.jdshipin.com:8880/xsj.php?id=cccm
+Thrill,http://php.jdshipin.com:8880/xsj.php?id=thrill
+星空卫视,http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong
+香港卫视,http://php.jdshipin.com:8880/xsj.php?id=hks
+澳亚卫视,http://php.jdshipin.com:8880/xsj.php?id=mastv
+澳门卫视,http://php.jdshipin.com:8880/xsj.php?id=mstv
+RTHK31,http://php.jdshipin.com:8880/xsj.php?id=rthk31
+RTHK32,http://php.jdshipin.com:8880/xsj.php?id=rthk32
+NOW新闻台,http://php.jdshipin.com:8880/xsj.php?id=now-news
+NOW财经台,http://php.jdshipin.com:8880/xsj.php?id=now-finance
+NOW直播台,http://php.jdshipin.com:8880/xsj.php?id=now-direct
+NOW爆谷台,http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
+NOW星影台,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
+NOW紫金国际台,http://php.jdshipin.com:8880/xsj.php?id=now-jelli
+NOW华剧台,http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
+NowViu剧集台,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+NOW HBO,http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
+NOW HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
+NOW HBO Family,http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
+NOW HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
+MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=2
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=3
+Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&xl=2
+Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&xl=3
+Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=2
+Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=3
+星空卫视,https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
+星空卫视,mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
+凤凰资讯,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhzx
+凤凰资讯,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv/
+凤凰中文,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhzw
+凤凰中文,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
+凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://103.95.24.37:880/fhws.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
+凤凰香港,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhhk
+凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
+凤凰香港,https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
+重温经典,http://36.108.172.237:10005/stream/channelid/14506760
+凤凰电影,http://117.114.153.25:8180/TV00000000000000000072@HHZT
+STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
+axn电影,http://117.114.153.25:8180/TV00000000000000000076@HHZT
+CINEMAX电影,http://117.114.153.25:8180/TV00000000000000000109@HHZT
+HBO（美）,http://117.114.153.25:8180/TV00000000000000000074@HHZT
+TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
+TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
+無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+TVB--功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+RTHK33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+RTHK34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+RTHK34频道,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+RTHK35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+香港電台(34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+澳亚卫视全网,https://live.mastvnet.com:443/lsdream/lY44pmm/2000/live.m3u8
+澳亚卫视全网,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+动物星球全网,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+华视频道,rtmp://f13h.mine.nu/sat/tv111
 
 广东,#genre#
-广东珠江,http://218.20.55.28:8888/udp/239.77.0.114:5146
-广东珠江1,http://113.67.164.93:8888/udp/239.77.0.114:5146
-广东珠江2,http://113.103.253.120:10000/udp/239.77.0.114:5146
-广东珠江3,http://183.6.110.241:9901/hls/1050/index.m3u8
-广东珠江4,http://113.71.148.79:5555/udp/239.77.0.114:5146
-广东珠江5,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江5,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
-广东珠江5,http://ddns.cyruslee.top:8888/udp/239.77.0.3:5146
-广东珠江5,http://ddns.cyruslee.top:8888/udp/239.77.1.94:5146
-广东珠江6,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
+广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
+广东公共,http://183.236.32.24:9901/hls/1038/index.m3u8
+广东体育,http://183.236.32.24:9901/hls/1039/index.m3u8
+经济科教,http://183.236.32.24:9901/hls/1044/index.m3u8
+广东影视,http://183.236.32.24:9901/hls/1045/index.m3u8
+广东少儿,http://183.236.32.24:9901/hls/1046/index.m3u8
+广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
+广州新闻,http://183.236.32.24:9901/hls/1041/index.m3u8
+广州影视,http://183.236.32.24:9901/hls/1042/index.m3u8
+广州法治,http://183.236.32.24:9901/hls/1043/index.m3u8
 
-广东民生,http://113.103.253.120:10000/udp/239.77.0.225:5146
-广东民生1,http://113.67.164.93:8888/udp/239.77.0.225:5146
-广东民生2,http://113.93.51.72:2000/udp/239.77.0.225:5146
-广东民生3,http://113.71.148.79:5555/udp/239.77.0.225:5146
-广东民生4,http://113.103.253.123:2000/udp/239.77.0.225:5146
-广东民生5,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
-广东民生5,http://ddns.cyruslee.top:8888/udp/239.77.0.5:5146
-广东民生6,http://zy.otioi.cn/live/place.php?id=gdgg
-
-
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 
 广州,#genre#
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
