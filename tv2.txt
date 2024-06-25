@@ -25,9 +25,6 @@ HOY,https://z02.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index
 澳門蓮花,https://z02.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
 鳳凰電影,https://z02.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 Viutv 6,https://z02.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
-創世電視,https://z02.ubtvfans.com/live/rx6/1317/a6cc4d38042da834e3c7eee3ad2aef10/index.m3u8
-澳亞衛視,https://z02.ubtvfans.com/live/rx3/85/c871830ea5628e11c1a0af56f2424165/index.m3u8
-Euronews English,https://z02.ubtvfans.com/live/rx6/2342/154b6c8b822f81c15bab71d6b12ce655/index.m3u8
 TVB亞洲劇,https://z02.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
 TVB粵語片,https://z02.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
 TVB功夫台,https://z02.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
@@ -36,28 +33,9 @@ TVB1,https://z02.ubtvfans.com/live/rx3/1242/fb44abcbd725826c898827a13d54aae5/ind
 TVB DRAMA,https://z02.ubtvfans.com/live/rx3/1243/5e98788089087fb462ba17e122fd194f/index.m3u8
 TVBJ1,https://z02.ubtvfans.com/live/rx3/1244/7833a84444269dd5dd0a7531ccef9d9c/index.m3u8
 TVBE,https://z02.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/index.m3u8
-新時代東部,https://z02.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
-新時代2,https://z02.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
-城市電視,https://z02.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
-TVB星河,https://z02.ubtvfans.com/live/rx4/1079/9371abf6b38ee5057462d8573a71736d/index.m3u8
-TVB經典,https://z02.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3u8
-新聞頻道,##
 HOY资讯台,https://z02.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 HKIBC,https://z02.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
-三立新聞,https://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-三立新聞,https://z02.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-三立新聞,https://z02.ubtvfans.com/live/rx6/2392//index.m3u8
-三立新聞+,https://z02.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
-東森新聞,https://z02.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
-東森新聞4,https://z02.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
-東森新聞,https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-東森新聞,https://z02.ubtvfans.com/live/rx6/2393//index.m3u8
-東森亞洲,https://z02.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
-中天新聞,https://z02.ubtvfans.com/live/rx6/2394//index.m3u8
-中天新聞2台,https://z02.ubtvfans.com/live/rx6/152/2d8b2279a71a577a7a4817ccf6e8ead0/index.m3u8
-中天新聞,https://z02.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
-民視新聞,https://z02.ubtvfans.com/live/rx6/2395//index.m3u8
-民視新聞,https://z02.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-TVBS新聞,https://z02.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
-TVBS新聞,https://z02.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
-TVBS新聞,https://z02.ubtvfans.com/live/rx6/2396//index.m3u8
+无线新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
+無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
+无线新闻,https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
+
